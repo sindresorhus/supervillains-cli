@@ -32,7 +32,7 @@ $ supervillains --help
 ## Related
 
 - [supervillains](https://github.com/sindresorhus/supervillains) - API for this module
-- [superheroes-cli](https://github.com/sindresorhus/superheroes-cli) - Get supervillain names
+- [superheroes-cli](https://github.com/sindresorhus/superheroes-cli) - Get superhero names
 
 
 ## License

@@ -1,4 +1,4 @@
-# supervillains-cli [![Build Status](https://travis-ci.org/sindresorhus/supervillains-cli.svg?branch=master)](https://travis-ci.org/sindresorhus/supervillains-cli)
+# supervillains-cli
 
 > Get supervillain names
 

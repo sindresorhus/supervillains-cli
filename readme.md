@@ -2,13 +2,11 @@
 
 > Get supervillain names
 
-
 ## Install
 
+```sh
+npm install --global supervillains-cli
 ```
-$ npm install --global supervillains-cli
-```
-
 
 ## Usage
 
@@ -28,13 +26,7 @@ $ supervillains --help
     --all  Get all names instead of a random name
 ```
 
-
 ## Related
 
-- [supervillains](https://github.com/sindresorhus/supervillains) - API for this module
+- [supervillains](https://github.com/sindresorhus/supervillains) - API for this package
 - [superheroes-cli](https://github.com/sindresorhus/superheroes-cli) - Get superhero names
-
-
-## License
-
-MIT © [Sindre Sorhus](https://sindresorhus.com)

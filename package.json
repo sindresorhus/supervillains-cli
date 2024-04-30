@@ -1,6 +1,6 @@
 {
 	"name": "supervillains-cli",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Get supervillain names on the command-line",
 	"license": "MIT",
 	"repository": "sindresorhus/supervillains-cli",
